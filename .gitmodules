@@ -1,3 +1,0 @@
-[submodule "submodule/mahjong_sohatsu_submodule"]
-       path = submodule/mahjong_sohatsu_submodule
-       url = git@github.com:sasao037/mahjong_sohatsu_submodule.git
