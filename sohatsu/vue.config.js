@@ -11,5 +11,6 @@ module.exports = {
     port: 8030,
     },
   publicPath: "./",
-  assetsDir: ""
+  assetsDir: "./",
+  outputDir: "docs",
 };
