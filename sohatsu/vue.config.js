@@ -13,4 +13,10 @@ module.exports = {
   publicPath: "./",
   assetsDir: "./",
   outputDir: "docs",
+  destinationDir: "./docs",
+  configureWebpack: {
+    performance: {
+      hints: false,
+    }
+  } 
 };
